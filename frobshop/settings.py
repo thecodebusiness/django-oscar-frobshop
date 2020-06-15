@@ -75,9 +75,9 @@ INSTALLED_APPS = [
     # 3rd-party apps that oscar depends on
     'widget_tweaks',
     'haystack',
-    # 'treebeard',
+    'treebeard',
     # 'sorl.thumbnail',
-    # 'django_tables2',
+    'django_tables2',
 ]
 
 MIDDLEWARE = [
